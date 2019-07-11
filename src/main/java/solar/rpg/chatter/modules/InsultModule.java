@@ -50,7 +50,8 @@ public class InsultModule extends Module implements Listener {
             "Leave, and for fuck sake, don't return please.",
             "You're an inconsiderate, over-privileged cunt.",
             "How does it feel getting owned by a piece of software?",
-            "Go back to Fortnite."
+            "Go back to Fortnite.",
+            "Do you kiss your mother with that mouth?"
     };
 
     /* A set of players who will receive a random insult every 0.5 seconds. */
